@@ -2,12 +2,12 @@
 Summary:	BBC iPlayer indexing tool and PVR
 Summary(pl.UTF-8):	Narzędzie indeksujące i nagrywające dla BBC iPlayera
 Name:		get_iplayer
-Version:	2.86
+Version:	2.92
 Release:	1
 License:	GPL v3+
 Group:		Applications/Multimedia
 Source0:	ftp://ftp.infradead.org/pub/get_iplayer/%{name}-%{version}.tar.gz
-# Source0-md5:	e5277184e25ded28db3d16b4f783163f
+# Source0-md5:	40774e6981c7af8ea1c9998cce3e8c50
 URL:		https://github.com/dinkypumpkin/get_iplayer/
 BuildRequires:	rpm-perlprov
 BuildRequires:	sed >= 4.0
