@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	BBC iPlayer indexing tool and PVR
 Summary(pl.UTF-8):	Narzędzie indeksujące i nagrywające dla BBC iPlayera
 Name:		get_iplayer
